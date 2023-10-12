@@ -7,13 +7,18 @@ export default function App() {
         <Weather defaultCity="Dallas" />
         <footer>
           This project was coded by{" "}
-          <a href="https://tourmaline-swan-bb7a93.netlify.app/" target="_blank">
+          <a
+            href="https://tourmaline-swan-bb7a93.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Darcy Weipert
           </a>{" "}
           and is{" "}
           <a
             href="https://github.com/Darcy-Weipert/react-weather-app.git"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on Github
           </a>
