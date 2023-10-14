@@ -21,6 +21,14 @@ export default function App() {
             rel="noreferrer"
           >
             open-sourced on Github
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://voluble-granita-09fa7a.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
