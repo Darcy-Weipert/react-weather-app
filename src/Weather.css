@@ -42,10 +42,10 @@
   font-weight: 400;
 }
 
-.Weather .unit {
+.Weather .units {
   color: rgb(33, 33, 33);
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 600;
   position: relative;
   line-height: 1;
   top: -34px;
