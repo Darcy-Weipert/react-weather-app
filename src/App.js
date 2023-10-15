@@ -8,15 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Dallas" />
         <footer>
-          This project was coded by{" "}
-          <a
-            href="https://tourmaline-swan-bb7a93.netlify.app/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Darcy Weipert
-          </a>{" "}
-          and is{" "}
+          This project was coded by Darcy Weipert and is{" "}
           <a
             href="https://github.com/Darcy-Weipert/react-weather-app.git"
             target="_blank"
